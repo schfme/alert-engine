@@ -1,4 +1,4 @@
-package me.schf.alert.engine.rule;
+package me.schf.alert.engine.service;
 
 public interface Evaluator {
 
