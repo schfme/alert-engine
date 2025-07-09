@@ -68,8 +68,8 @@
 
 	<distributionManagement>
 		<repository>
-			<id>schfme-maven-schfme-maven</id>
-			<name>schfme-maven-schfme-maven</name>
+			<id>schfme-maven</id>
+			<name>schfme-maven</name>
 			<url>
 				https://schfme-maven-183295446637.d.codeartifact.us-east-2.amazonaws.com/maven/schfme-maven/</url>
 		</repository>
